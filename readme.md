@@ -3,7 +3,7 @@
 
 [![GitHub Star](https://img.shields.io/github/stars/NotClavilux/Imagicx-Checker.svg?style=social)](https://github.com/NotClavilux/Imagicx-Checker/stargazers)
 
-Imagicx Checker is a Python script that generates random image URLs from a German image hosting site called imagix. It then checks if these URLs contain valid images.
+Imagicx Checker is a Python script that generates random image URLs from a German image hosting site called imagicx. It then checks if these URLs contain valid images.
 
 ## Usage
 
